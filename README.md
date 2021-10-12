@@ -5,8 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Software Developer with 4 years of experience. I like to code and experiment with new things. I am an enthusiastic person who loves to take up
-new challenges and learn new skills. I love visit IT events, meet new people and exchanging ideas with them.</h4>
+<h4 align="center">I am a Software Developer with 4 years of experience. I like to code and experiment with new technology. I am outgoing, enthusiastic and eager to take on new challenges and learn new skills. I enjoy visiting IT events, meeting new people and exchanging ideas with them.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anton-mazurko&label=Profile%20views&color=0e75b6&style=plastic" alt="anton-mazurko" /> </p>
 
